@@ -1,0 +1,24 @@
+{
+  "name": "deckofcards",
+  "version": "1.0.0",
+  "description": "Deck of cards GraphQL API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvalentic/GraphQLDeckOfCards.git"
+  },
+  "author": "Bob Valentic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bvalentic/GraphQLDeckOfCards/issues"
+  },
+  "homepage": "https://github.com/bvalentic/GraphQLDeckOfCards#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0"
+  }
+}
